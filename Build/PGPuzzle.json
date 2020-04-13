@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PG",
+"dataUrl": "PGPuzzle.data.unityweb",
+"wasmCodeUrl": "PGPuzzle.wasm.code.unityweb",
+"wasmFrameworkUrl": "PGPuzzle.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
